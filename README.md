@@ -1,5 +1,4 @@
 # 5th_sem_internship
-Group Members
+Group Members Names:
 Bristi Dakshi
 Aniket Samaddar
-Debasis Mandal
